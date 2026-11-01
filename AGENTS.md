@@ -28,7 +28,7 @@
 
 - 这是上游教学/示例仓库，改动应保持最小：修正文档、同步多语言 README、更新示例即可，不要引入框架或大范围重构。
 - 示例代码风格：命名空间块（非 file-scoped）、4 空格缩进，与现有 `ModBehaviour.cs` 保持一致。
-- 提交信息：fork 的历史是 `docs: ...` 风格（如 `docs: Adds Ducky.Sdk to community contributions`）；浅克隆下可核实的信息仅此。
+- 提交信息：fork 的历史是 `docs: ...` 风格（如 `docs: Adds Ducky.Sdk to community contributions`）。
 
 ## 注意事项
 
